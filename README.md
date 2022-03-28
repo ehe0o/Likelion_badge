@@ -9,11 +9,13 @@
 ### 2. LIKELION.UNIV_글씨만 ###
 ![LIKELION.UNIV_글씨만](http://is.am/5ywh)
 <br>
-### 3. Likelion ###
+### 3. LIKELION.UNIV ###
+![LIKELION.UNIV](http://is.am/5ywn)
+<br>
+### 4. Likelion ###
 ![Likelion](http://is.am/5yga)
 <br>
-### 4. Likelion.Univ ###
+### 5. Likelion.Univ ###
 ![Likelion.Univ](http://is.am/5ywg)
 <br>
-### 5. LIKELION.UNIV ###
-![LIKELION.UNIV](http://is.am/5ywn)
+
