@@ -1,15 +1,19 @@
 # Likelion_badge
-### 원래 있었던 멋사 뱃지 사라졌길래 만들어봤는데 URL너무 길어서 줄였다가 URL 폭파됐는데 어디서는 보이고 어디서는 안보이는 그런 상황 ### 
 
-![Likelion](http://is.am/5yga)
-![Likelion](http://is.am/5yga)
-![Likelion](http://is.am/5yga)
-![Likelion](http://is.am/5yga)
-![Likelion](http://is.am/5yga)
-![Likelion](http://is.am/5yga)
-![Likelion](http://is.am/5yga)
-![Likelion](http://is.am/5yga)
+#### ***원래 있었던 멋사 뱃지 사라졌길래 만들어봤는데 URL너무 길어서 줄였다가 URL 폭파됐는데 어디서는 보이고 어디서는 안보이는 그런 상황*** #### 
+#### ***ㄴ 추후 8기, 9기, 10기 업데이트 예정입니다~!(여유로워진다면..)*** #### 
 
-
-
-![다운로드-removebg-preview](https://user-images.githubusercontent.com/64454313/160156685-dad21616-46ad-47ef-bb44-97ff894ea919.png)
+### 1. LIKELION_큰버전 ###
+![LIKELION_큰버전](http://is.am/5yg9)
+<br>
+### 2. LIKELION.UNIV_글씨만 ###
+![LIKELION.UNIV_글씨만](http://is.am/5ywh)
+<br>
+### 3. Likelion ###
+![Likelion](http://is.am/5yga)
+<br>
+### 4. Likelion.Univ ###
+![Likelion.Univ](http://is.am/5ywg)
+<br>
+### 5. LIKELION.UNIV ###
+![LIKELION.UNIV](http://is.am/5ywn)
